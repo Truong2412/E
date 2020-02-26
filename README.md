@@ -9,3 +9,8 @@ commit : cam kết
 pull: kéo
 push : đẩy
 directory : danh mục
+element : thành phần
+paragraph : đoạn văn
+affected : bị ảnh hưởng
+specific : riêng
+dot: chấm 
